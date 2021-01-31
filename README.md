@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working on centrelasing my projects on GitHub
 - 🌱 I’m currently learning web development
-- 📫 How to reach me: LinkedIN : https://www.linkedin.com/in/oussamabenramdane/
+- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/oussamabenramdane/
 
 
